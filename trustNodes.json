@@ -391,6 +391,12 @@
         "logo": "https://static.gxb.io/dapp/blockcity/nodevote/45.png",
         "nodeDesc": "优得社区作为国内一流的独立区块链社区，依托现已成型的30+城市分社和国外社区，将充分利用自身资源与能力优势，为公信宝生态建设提供一站式社区服务，成为公信宝面向传统行业的连接器，为GXChain生态助力。并呼吁业内优质项目携手并进，在币圈寒冬共同推进行业发展，利用数字经济赋能全社会发展",
         "accountName": "gxc-uldfans"
+	"location": {
+		    "city": "BeiJing",
+		    "country": "China",
+		    "longitude": 116.494567289093,
+		    "latitude": 39.978445414380644
+	    }
     },
     {
         "nodeName": "非小号",
